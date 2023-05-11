@@ -1,4 +1,4 @@
-document.body.addEventListener('keyup', (event)=>{
+document.body.addEventListener('keydown', (event)=>{
     playSound( event.code.toLowerCase() );
 });
 
@@ -40,3 +40,4 @@ function playComposition(songArray) {
         wait += 250;
     }
 }
+
