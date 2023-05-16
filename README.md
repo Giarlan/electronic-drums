@@ -11,16 +11,16 @@
 > - [X] Composition field
 > - [X] Play button
 
-> ### Home Page
-> ![Capturar](https://user-images.githubusercontent.com/108962578/236968010-dc06a06e-320d-4288-a873-cbdefc0162b6.JPG)  
+> ### App Layout
+> ![Capturar](https://github.com/Giarlan/electronic-drums/assets/108962578/aa5dd516-e585-4d9e-b961-f56790fe356b)  
 
 > ### Prerequisites to run it
->     You only need a browser to click on the following link and run the application.
+>     You only need a PC, and a browser to click on the following link and run the application.
 
 > ### Deploy
 > * Test by using the link below
 >   
->   https://harmonious-seahorse-e5a079.netlify.app
+>   https://dazzling-sundae-a9af1f.netlify.app/
 
 
 > ### Technologies Used
